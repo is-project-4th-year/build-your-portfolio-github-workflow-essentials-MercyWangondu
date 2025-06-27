@@ -37,7 +37,7 @@ By editing the same line of code in two branches (`feature/email-red` and `featu
 ## 4. Screenshots of Key GitHub Features
 
 
-### A. Milestones and Issues  
+### A. Milestones
 ![Milestones](assets/Milestones.png)  
 **1. Setup & Home Page:** Built the landing section with profile image, navigation bar, and header content.
 
