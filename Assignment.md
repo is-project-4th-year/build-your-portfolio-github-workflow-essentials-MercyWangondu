@@ -13,8 +13,7 @@
 ## 2. Deployed Portfolio Link
 
 **GitHub Pages URL:**  
-[https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-MercyWangondu/](https://your-username.github.io/personal-portfolio)
-
+[https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-MercyWangondu/](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-MercyWangondu/)
 ---
 
 ## 3. Learnings from the Git Crash Program
